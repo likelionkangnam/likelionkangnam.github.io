@@ -1,0 +1,55 @@
+
+
+table.type09 {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+
+}
+table.type09 thead th {
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #369;
+    border-bottom: 3px solid #036;
+}
+table.type09 tbody th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+    background: #f3f6f7;
+}
+table.type09 td {
+    width: 350px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+
+.mono_table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border: none;
+    color: #000;
+}
+
+.mono_table th {
+    padding: 15px;
+    background: url(http://nanati.me/img/monoptn.gif);
+    border: none;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: 0 1px #FFF;
+}
+ 
+.mono_table td {
+    padding: 15px;
+    border: none;
+    border-bottom: 1px solid #000;
+    text-align: left;
+    vertical-align: baseline;
+}
